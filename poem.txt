@@ -4,3 +4,4 @@ line 3
 indigo color
 some new color
 LALALLA 6
+LINE 7
